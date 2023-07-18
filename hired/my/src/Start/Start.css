@@ -1,0 +1,44 @@
+.gtp3__cta{
+    border: 1px solid wheat;
+    color: wheat;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    padding: 2rem;
+    margin: 4rem;
+    border-radius: 1rem;
+    background: var(--gradient-bar);
+}
+.gtp3__cta-container p{
+    font-family: var(--font-family);
+    font-size: 12px;
+    font-weight: 500;
+    color: #0E0E0E;
+    line-height:30px;
+
+}
+.gtp3__cta-container h3{
+    font-family: var(--font-family);
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 45px;
+    color: black;
+}
+.gtp3__cta-btn button{
+    padding: 1rem 3rem;
+    border-radius: 40px;
+    background: #0E0E0E;
+    color: aliceblue;
+    font-family: var(--font-family);
+font-size: 18px;
+font-weight: 700;
+line-height: 30px;    
+cursor: pointer;
+}
+.gtp3__cta-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 2rem;
+}
